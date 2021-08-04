@@ -35,6 +35,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/%F0%9F%92%BB-todor-garnev-2880425a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Todor%20Garnev-purple?style=flat-square&logo=linkedin"></a>
-<a href="mailto:tgarnev@tgarnev@abv.bg"><img alt="Email" src="https://img.shields.io/badge/Email-tgarnev@abv.bg-purple?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/%F0%9F%92%BB-todor-garnev-2880425a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Todor%20Garnev-buefy?style=flat-square&logo=linkedin"></a>
+<a href="mailto:tgarnev@tgarnev@abv.bg"><img alt="Email" src="https://img.shields.io/badge/Email-tgarnev@abv.bg-buefy?style=flat-square&logo=gmail"></a>
 </p>
