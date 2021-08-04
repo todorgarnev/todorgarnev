@@ -6,12 +6,12 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=Typescript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=Typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Angular](https://img.shields.io/badge/-angular-333333?style=flat&logo=angular)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express](https://img.shields.io/badge/-express-333333?style=flat&logo=express)
-  ![GraphQL](https://img.shields.io/badge/-graphql-333333?style=flat&logo=graphql)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![GraphQL](https://img.shields.io/badge/-Graphql-333333?style=flat&logo=graphql)
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
