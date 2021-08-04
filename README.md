@@ -26,8 +26,8 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tgarnev&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgarnev&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -35,6 +35,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/%F0%9F%92%BB-todor-garnev-2880425a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Todor%20Garnev-buefy?style=flat-square&logo=linkedin"></a>
-<a href="mailto:tgarnev@tgarnev@abv.bg"><img alt="Email" src="https://img.shields.io/badge/Email-tgarnev@abv.bg-buefy?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/%F0%9F%92%BB-todor-garnev-2880425a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Todor%20Garnev-red?style=flat-square&logo=linkedin"></a>
+<a href="mailto:tgarnev@tgarnev@abv.bg"><img alt="Email" src="https://img.shields.io/badge/Email-tgarnev@abv.bg-red?style=flat-square&logo=gmail"></a>
 </p>
