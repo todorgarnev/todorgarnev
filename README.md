@@ -8,7 +8,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular.js)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
